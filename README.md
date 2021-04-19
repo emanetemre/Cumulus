@@ -1,7 +1,7 @@
 # Cumulus
 
 Fan ve PSU durumunu kontrol etme:
-...
+```
 cumulus@cumulus:mgmt:~$ smonctl 
 Fan1      (Fan Tray 1, Fan 1                     ):  OK 
 Fan2      (Fan Tray 1, Fan 2                     ):  OK 
@@ -20,4 +20,4 @@ Temp2     (Board Sensor Near Virtual Switch      ):  OK
 Temp3     (Board Sensor at Front Left Corner     ):  OK 
 Temp4     (Board Sensor at Front Right Corner    ):  OK 
 Temp5     (Board Sensor near Fan                 ):  OK
-...
+```

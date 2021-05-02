@@ -3,7 +3,7 @@
 Fan ve PSU durumunu kontrol etme:
 ```bash
 cumulus@cumulus:mgmt:~$ smonctl 
-```bash
+```
 
 ```bash
 cumulus@cumulus:mgmt:~$ smonctl 
@@ -24,4 +24,4 @@ Temp2     (Board Sensor Near Virtual Switch      ):  OK
 Temp3     (Board Sensor at Front Left Corner     ):  OK 
 Temp4     (Board Sensor at Front Right Corner    ):  OK 
 Temp5     (Board Sensor near Fan                 ):  OK
-```bash
+```

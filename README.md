@@ -3,6 +3,10 @@
 Fan ve PSU durumunu kontrol etme:
 ```
 cumulus@cumulus:mgmt:~$ smonctl 
+```
+
+```
+cumulus@cumulus:mgmt:~$ smonctl 
 Fan1      (Fan Tray 1, Fan 1                     ):  OK 
 Fan2      (Fan Tray 1, Fan 2                     ):  OK 
 Fan3      (Fan Tray 2, Fan 1                     ):  OK 
